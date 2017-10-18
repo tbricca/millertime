@@ -97,3 +97,15 @@ body {
   	position:fixed;
     padding:10px;
 }
+
+#headlineDiv {
+    text-align: center;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap; 
+}
+
+#header {
+    border: 1px solid black;
+}
+
